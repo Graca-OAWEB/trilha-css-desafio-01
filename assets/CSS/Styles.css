@@ -121,7 +121,6 @@ header {
     background-size: cover;
     background-repeat: no-repeat;
     border-bottom: 0.062em solid #33A8DB;
-
 }
 
 .banner-content {
@@ -141,6 +140,7 @@ header {
         background-clip: text;
         -webkit-background-clip: text;
 }
+
 .banner-content p {
     text-align: justify;
 }
