@@ -10,15 +10,13 @@
 
 /*=====================================📱 MOBILE ==========================================*/
 /*#PORTRAIT  max-width: 480px*/
-@media screen and (max-width: 480px) and (orientation: portrait) {
-
-}
+@media screen and (max-width: 480px) and (orientation: portrait) {}
 
 /*#LANDSCAPE max-width: 768px*/
-@media screen and (max-width: 768px) and  (orientation: landscape) {
-    #transform-world p{
+@media screen and (max-width: 768px) and (orientation: landscape) {
+    #transform-world p {
         width: 40vw;
-        min-height:100%;
+        min-height: 100%;
         display: flex;
         align-items: center;
     }
@@ -29,13 +27,13 @@
 
 @media screen and (min-width: 834px) and (max-width: 1023px) and (orientation: portrait) {
 
-    .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p{
+    .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         width: 65vw;
     }
- 
-    #transform-world p{
+
+    #transform-world p {
         width: 40vw;
-        min-height:100%;
+        min-height: 100%;
         display: flex;
         align-items: center;
         margin-left: 4em;
@@ -46,13 +44,13 @@
 
 @media (min-width: 1024px) and (max-width: 1279px) and (orientation: landscape) {
 
-    .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p{
+    .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         width: 65vw;
     }
- 
-    #transform-world p{
+
+    #transform-world p {
         width: 40vw;
-        min-height:100%;
+        min-height: 100%;
         display: flex;
         align-items: center;
         margin-left: 4em;
@@ -63,23 +61,25 @@
 /*#SMALL min-width: 1280px and max-width: 1366px*/
 
 @media screen and (min-width: 1280px) and (max-width: 1366px) {
-    h2, h1, p{
+    h2, h1, p {
         width: 100%;
     }
 
-    .banner .banner-content{
+    .banner .banner-content {
         width: 30vw;
     }
-    .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p{
+
+    .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         width: 55vw;
     }
- 
-    .modules-list, .module{
+
+    .modules-list, .module {
         width: 30vw;
     }
-    #transform-world p{
+
+    #transform-world p {
         width: 15vw;
-        min-height:100%;
+        min-height: 100%;
         display: flex;
         align-items: center;
         margin-left: 4em;
@@ -89,23 +89,25 @@
 /*#LARGE  min-width: 1367px and max-width: 1919px*/
 
 @media screen and (min-width: 1367px) and (max-width: 1919px) {
-    h2, h1, p{
+    h2, h1, p {
         width: 100%;
     }
 
-    .banner .banner-content{
+    .banner .banner-content {
         width: 30vw;
     }
-    .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p{
+
+    .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         width: 55vw;
     }
- 
-    .modules-list, .module{
+
+    .modules-list, .module {
         width: 30vw;
     }
-    #transform-world p{
+
+    #transform-world p {
         width: 15vw;
-        min-height:100%;
+        min-height: 100%;
         display: flex;
         align-items: center;
         margin-left: 4em;
@@ -116,34 +118,61 @@
 
 /*#PORTRAIT - min-width: 1920px*/
 
-@media screen and (min-width: 1920px) and (orientation: portrait){
-
-}
-/*#LANDSCAPE - min-width: 1920px*/
-
-@media screen and (min-width: 1920px) and (orientation: landscape) {
-    h2, h1, p{
+@media screen and (min-width: 1920px) and (orientation: portrait) {
+    h2, h1, p {
         width: 100%;
     }
 
-    .banner .banner-content{
-        width: 30vw;
+    .banner .banner-content {
+        width: 40vw;
+        height: 85vh;
     }
-    .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p{
-        width: 55vw;
+
+    .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
+        width: 65vw;
     }
- 
-    .modules-list, .module{
-        width: 30vw;
+
+    .modules-list, .module {
+        width: 40vw;
     }
-    #transform-world p{
+
+    #transform-world p {
         width: 15vw;
-        min-height:100%;
+        min-height: 100%;
         display: flex;
         align-items: center;
-               margin-left: 4em;
+        margin-left: 4em;
     }
-    
+}
+
+/*#LANDSCAPE - min-width: 1920px*/
+
+@media screen and (min-width: 1920px) and (orientation: landscape) {
+    h2, h1, p {
+        width: 100%;
+    }
+
+    .banner .banner-content {
+        width: 40vw;
+        height: 85vh;
+    }
+
+    .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
+        width: 65vw;
+    }
+
+    .modules-list, .module {
+        width: 40vw;
+    }
+
+    #transform-world p {
+        width: 15vw;
+        min-height: 100%;
+        display: flex;
+        align-items: center;
+        margin-left: 4em;
+    }
+
 }
 
 /*================================= DESKTOP EXTRA LARGE SCRENS  =======================================*/
@@ -152,32 +181,59 @@
 
 /*#PORTRAIT - min-width: 1920px*/
 
-@media screen and (min-width: 2000px) and (orientation: portrait){
-
-}
-/*#LANDSCAPE - min-width: 1920px*/
-
-@media screen and (min-width: 2000px) and (orientation: landscape) {
-    h2, h1, p{
+@media screen and (min-width: 2000px) and (orientation: portrait) {
+       h2, h1, p {
         width: 100%;
     }
 
-    .banner .banner-content{
-        width: 30vw;
+    .banner .banner-content {
+        width: 40vw;
+        height: 85vh;
     }
-    .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p{
-        width: 55vw;
+
+    .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
+        width: 65vw;
     }
- 
-    .modules-list, .module{
-        width: 30vw;
+
+    .modules-list, .module {
+        width: 40vw;
     }
-    #transform-world p{
+
+    #transform-world p {
         width: 15vw;
-        min-height:100%;
+        min-height: 100%;
         display: flex;
         align-items: center;
-               margin-left: 4em;
+        margin-left: 4em;
     }
-    
+}
+
+/*#LANDSCAPE - min-width: 1920px*/
+
+@media screen and (min-width: 2000px) and (orientation: landscape) {
+    h2, h1, p {
+        width: 100%;
+    }
+
+    .banner .banner-content {
+        width: 40vw;
+        height: 85vh;
+    }
+
+    .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
+        width: 65vw;
+    }
+
+    .modules-list, .module {
+        width: 40vw;
+    }
+
+    #transform-world p {
+        width: 15vw;
+        min-height: 100%;
+        display: flex;
+        align-items: center;
+        margin-left: 4em;
+    }
+
 }
