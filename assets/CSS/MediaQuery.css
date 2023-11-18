@@ -67,6 +67,7 @@
 
     .banner .banner-content {
         width: 30vw;
+        height: 85vh;
     }
 
     .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
@@ -95,6 +96,7 @@
 
     .banner .banner-content {
         width: 30vw;
+        height: 85vh;
     }
 
     .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
@@ -124,12 +126,41 @@
     }
 
     .banner .banner-content {
-        width: 40vw;
+        width: 50vw;
         height: 85vh;
     }
 
     .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
-        width: 65vw;
+        width: 75vw;
+    }
+
+    .modules-list, .module {
+        width: 40vw;
+    }
+
+    #transform-world p {
+        width: 15vw;
+        min-height: 100%;
+        display: flex;
+        align-items: center;
+        margin-left: 4em;
+    }
+}
+
+/*#LANDSCAPE - min-width: 1920px*/
+
+@media screen and (min-width: 2000px) and (orientation: landscape) {
+    h2, h1, p {
+        width: 100%;
+    }
+
+    .banner .banner-content {
+        width: 50vw;
+        height: 85vh;
+    }
+
+    .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
+        width: 75vw;
     }
 
     .modules-list, .module {
@@ -153,12 +184,70 @@
     }
 
     .banner .banner-content {
-        width: 40vw;
+        width: 50vw;
         height: 85vh;
     }
 
     .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
-        width: 65vw;
+        width: 75vw;
+    }
+
+    .modules-list, .module {
+        width: 40vw;
+    }
+
+    #transform-world p {
+        width: 15vw;
+        min-height: 100%;
+        display: flex;
+        align-items: center;
+        margin-left: 4em;
+    }
+}
+
+/*#LANDSCAPE - min-width: 1920px*/
+
+@media screen and (min-width: 2000px) and (orientation: landscape) {
+    h2, h1, p {
+        width: 100%;
+    }
+
+    .banner .banner-content {
+        width: 50vw;
+        height: 85vh;
+    }
+
+    .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
+        width: 75vw;
+    }
+
+    .modules-list, .module {
+        width: 40vw;
+    }
+
+    #transform-world p {
+        width: 15vw;
+        min-height: 100%;
+        display: flex;
+        align-items: center;
+        margin-left: 4em;
+    }
+}
+
+/*#LANDSCAPE - min-width: 1920px*/
+
+@media screen and (min-width: 2000px) and (orientation: landscape) {
+    h2, h1, p {
+        width: 100%;
+    }
+
+    .banner .banner-content {
+        width: 50vw;
+        height: 85vh;
+    }
+
+    .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
+        width: 75vw;
     }
 
     .modules-list, .module {
@@ -187,12 +276,12 @@
     }
 
     .banner .banner-content {
-        width: 40vw;
+        width: 50vw;
         height: 85vh;
     }
 
     .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
-        width: 65vw;
+        width: 75vw;
     }
 
     .modules-list, .module {
@@ -216,12 +305,12 @@
     }
 
     .banner .banner-content {
-        width: 40vw;
+        width: 50vw;
         height: 85vh;
     }
 
     .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
-        width: 65vw;
+        width: 75vw;
     }
 
     .modules-list, .module {
