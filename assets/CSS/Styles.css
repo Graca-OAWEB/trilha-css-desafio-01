@@ -10,13 +10,16 @@
 }
 
 *::selection {
-    background-color: #06F8BB;
+    background-color: #33A8DB;
     color: #020e2e;
 }
 
 /*.................................  MOBILE FIRST /STYLE ALL ..............................*/
 
 /*==========================================Box=============================================*/
+html{
+    width: 100%;
+}
 
 body {
     background-color: #000;
