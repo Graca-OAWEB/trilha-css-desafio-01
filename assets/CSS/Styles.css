@@ -19,16 +19,19 @@
 /*==========================================Box=============================================*/
 
 body {
+    width: 100vw;
     background-color: #000;
 }
 
-body, main, section, header, footer {
+ main, section, header, footer {
     width: 100%;
+}
+
+body, main, section, header, footer {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-
 }
 
 section, .banner, #course-content, #transform-world, #professional-challenges, header, footer {
@@ -44,7 +47,7 @@ section, .banner, #course-content, #transform-world, #professional-challenges, h
 
 h1 {
     font-family: Raleway;
-    width: 9%;
+    width: 90%;
     font-size: 2.5em;
     font-style: normal;
     font-weight: 900;

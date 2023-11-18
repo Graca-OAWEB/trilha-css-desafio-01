@@ -10,7 +10,17 @@
 
 /*=====================================📱 MOBILE ==========================================*/
 /*#PORTRAIT  max-width: 480px*/
+
 @media screen and (max-width: 480px) and (orientation: portrait) {
+ 
+    
+    
+ main, section, header, footer, #professional-challenges {
+    width: 100vw;
+}
+  .logo{
+    width: 50vw;
+  }
     .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         width: 65vw;
     }
@@ -20,26 +30,34 @@
         min-height: 100%;
         display: flex;
         align-items: center;
-        margin-left: 4em;
+        margin-left: 2em;
     }
 }
-}
+
 
 /*#LANDSCAPE max-width: 768px*/
 @media screen and (max-width: 768px) and (orientation: landscape) {
-    .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
-        width: 65vw;
+    
+    
+    main, section, header, footer, #professional-challenges {
+        width: 100vw;
     }
+      .logo{
+        width: 50vw;
+      }
+        .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
+            width: 65vw;
+        }
+    
+        #transform-world p {
+            width: 40vw;
+            min-height: 100%;
+            display: flex;
+            align-items: center;
+            margin-left: 2em;
+        }
+}
 
-    #transform-world p {
-        width: 40vw;
-        min-height: 100%;
-        display: flex;
-        align-items: center;
-        margin-left: 4em;
-    }
-}
-}
 
 /*===================================== 📔 TABLETS ==========================================*/
 /*#PORTRAIT  min-width: 834px and max-width: 1023px*/
