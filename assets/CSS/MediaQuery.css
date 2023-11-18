@@ -148,3 +148,36 @@
 
 /*================================= DESKTOP EXTRA LARGE SCRENS  =======================================*/
 
+/*================================= EXTRA LARGE SCRENS  =======================================*/
+
+/*#PORTRAIT - min-width: 1920px*/
+
+@media screen and (min-width: 2000px) and (orientation: portrait){
+
+}
+/*#LANDSCAPE - min-width: 1920px*/
+
+@media screen and (min-width: 2000px) and (orientation: landscape) {
+    h2, h1, p{
+        width: 100%;
+    }
+
+    .banner .banner-content{
+        width: 30vw;
+    }
+    .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p{
+        width: 55vw;
+    }
+ 
+    .modules-list, .module{
+        width: 30vw;
+    }
+    #transform-world p{
+        width: 15vw;
+        min-height:100%;
+        display: flex;
+        align-items: center;
+               margin-left: 4em;
+    }
+    
+}
