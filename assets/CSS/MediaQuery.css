@@ -10,16 +10,35 @@
 
 /*=====================================📱 MOBILE ==========================================*/
 /*#PORTRAIT  max-width: 480px*/
-@media screen and (max-width: 480px) and (orientation: portrait) {}
+@media screen and (max-width: 480px) and (orientation: portrait) {
+    .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
+        width: 65vw;
+    }
 
-/*#LANDSCAPE max-width: 768px*/
-@media screen and (max-width: 768px) and (orientation: landscape) {
     #transform-world p {
         width: 40vw;
         min-height: 100%;
         display: flex;
         align-items: center;
+        margin-left: 4em;
     }
+}
+}
+
+/*#LANDSCAPE max-width: 768px*/
+@media screen and (max-width: 768px) and (orientation: landscape) {
+    .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
+        width: 65vw;
+    }
+
+    #transform-world p {
+        width: 40vw;
+        min-height: 100%;
+        display: flex;
+        align-items: center;
+        margin-left: 4em;
+    }
+}
 }
 
 /*===================================== 📔 TABLETS ==========================================*/
@@ -57,6 +76,7 @@
     }
 }
 
+/*.............................................................................................................................................................................................................*/
 /*===================================== 💻 LAPTOP ==========================================*/
 /*#SMALL min-width: 1280px and max-width: 1366px*/
 
@@ -66,11 +86,12 @@
     }
 
     .banner .banner-content {
-        width: 30vw;
+        width: 35vw;
         height: 85vh;
     }
 
-    .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
+
+    #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         width: 55vw;
     }
 
@@ -95,11 +116,11 @@
     }
 
     .banner .banner-content {
-        width: 30vw;
+        width: 35vw;
         height: 85vh;
     }
 
-    .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
+    #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         width: 55vw;
     }
 
@@ -126,11 +147,12 @@
     }
 
     .banner .banner-content {
-        width: 50vw;
+        width: 35vw;
         height: 85vh;
     }
 
-    .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
+
+    #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         width: 75vw;
     }
 
@@ -155,11 +177,12 @@
     }
 
     .banner .banner-content {
-        width: 50vw;
+        width: 35vw;
         height: 85vh;
     }
 
-    .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
+
+    #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         width: 75vw;
     }
 
@@ -184,11 +207,12 @@
     }
 
     .banner .banner-content {
-        width: 50vw;
+        width: 35vw;
         height: 85vh;
     }
 
-    .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
+
+    #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         width: 75vw;
     }
 
@@ -213,11 +237,12 @@
     }
 
     .banner .banner-content {
-        width: 50vw;
+        width: 35vw;
         height: 85vh;
     }
 
-    .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
+
+    #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         width: 75vw;
     }
 
@@ -242,11 +267,12 @@
     }
 
     .banner .banner-content {
-        width: 50vw;
+        width: 35vw;
         height: 85vh;
     }
 
-    .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
+
+    #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         width: 75vw;
     }
 
@@ -270,17 +296,17 @@
 
 /*#PORTRAIT - min-width: 1920px*/
 
-@media screen and (min-width: 2000px) and (orientation: portrait) {
-       h2, h1, p {
+@media screen and (min-width: 4000px) and (orientation: portrait) {
+    h2, h1, p {
         width: 90%;
     }
 
     .banner .banner-content {
-        width: 50vw;
+        width: 35vw;
         height: 85vh;
     }
 
-    .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
+    #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         width: 75vw;
     }
 
@@ -299,17 +325,18 @@
 
 /*#LANDSCAPE - min-width: 1920px*/
 
-@media screen and (min-width: 2000px) and (orientation: landscape) {
+@media screen and (min-width: 4000px) and (orientation: landscape) {
+
     h2, h1, p {
         width: 90%;
     }
 
     .banner .banner-content {
-        width: 50vw;
+        width: 35vw;
         height: 85vh;
     }
 
-    .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
+    #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         width: 75vw;
     }
 
