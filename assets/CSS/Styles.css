@@ -17,7 +17,7 @@
 /*.................................  MOBILE FIRST /STYLE ALL ..............................*/
 
 /*==========================================Box=============================================*/
-html{
+html,header,main,footer {
     width: 100%;
 }
 
@@ -47,6 +47,7 @@ section, .banner, #course-content, #transform-world, #professional-challenges, h
 
 h1 {
     font-family: Raleway;
+    width: 9%;
     font-size: 2.5em;
     font-style: normal;
     font-weight: 900;
@@ -60,6 +61,7 @@ h1 {
 
 h2 {
     color: #33A8DB;
+    width: 90%;
     font-family: Raleway;
     font-size: 2em;
     font-style: normal;
@@ -72,10 +74,10 @@ h2 {
 }
 
 p {
-display: flex;
-justify-content: center;
-align-items: center;
-flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
     color: #FFF;
     text-align: center;
     font-family: Raleway;
@@ -144,7 +146,7 @@ header {
     width: 90vw;
     flex-direction: column;
     align-items: center;
-  gap: 1em;
+    gap: 1em;
 }
 
 .banner-content h1 {
@@ -251,7 +253,7 @@ header {
 
 #transform-world p {
     width: 50vw;
-    min-height:100%;
+    min-height: 100%;
     display: flex;
     align-items: center;
     text-transform: uppercase;
@@ -275,7 +277,7 @@ header {
 
 #professional-challenges h2 {
     text-transform: uppercase;
-    max-width: 90vw;
+    max-width: 90%;
 }
 
 #professional-challenges img {
@@ -304,9 +306,10 @@ footer {
     background: linear-gradient(180deg, rgba(51, 168, 219, 0.00) 0%, rgba(51, 168, 219, 0.20) 99.99%, rgba(51, 168, 219, 0.20) 100%);
 }
 
-.dio-logo{
-  margin-top: 2em;
+.dio-logo {
+    margin-top: 2em;
 }
-footer p{
+
+footer p {
     width: 100%;
 }

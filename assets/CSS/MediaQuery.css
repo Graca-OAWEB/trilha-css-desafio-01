@@ -62,7 +62,7 @@
 
 @media screen and (min-width: 1280px) and (max-width: 1366px) {
     h2, h1, p {
-        width: 100%;
+        width: 90%;
     }
 
     .banner .banner-content {
@@ -91,7 +91,7 @@
 
 @media screen and (min-width: 1367px) and (max-width: 1919px) {
     h2, h1, p {
-        width: 100%;
+        width: 90%;
     }
 
     .banner .banner-content {
@@ -122,7 +122,7 @@
 
 @media screen and (min-width: 1920px) and (orientation: portrait) {
     h2, h1, p {
-        width: 100%;
+        width: 90%;
     }
 
     .banner .banner-content {
@@ -151,7 +151,7 @@
 
 @media screen and (min-width: 2000px) and (orientation: landscape) {
     h2, h1, p {
-        width: 100%;
+        width: 90%;
     }
 
     .banner .banner-content {
@@ -180,7 +180,7 @@
 
 @media screen and (min-width: 1920px) and (orientation: landscape) {
     h2, h1, p {
-        width: 100%;
+        width: 90%;
     }
 
     .banner .banner-content {
@@ -209,7 +209,7 @@
 
 @media screen and (min-width: 2000px) and (orientation: landscape) {
     h2, h1, p {
-        width: 100%;
+        width: 90%;
     }
 
     .banner .banner-content {
@@ -238,7 +238,7 @@
 
 @media screen and (min-width: 2000px) and (orientation: landscape) {
     h2, h1, p {
-        width: 100%;
+        width: 90%;
     }
 
     .banner .banner-content {
@@ -272,7 +272,7 @@
 
 @media screen and (min-width: 2000px) and (orientation: portrait) {
        h2, h1, p {
-        width: 100%;
+        width: 90%;
     }
 
     .banner .banner-content {
@@ -301,7 +301,7 @@
 
 @media screen and (min-width: 2000px) and (orientation: landscape) {
     h2, h1, p {
-        width: 100%;
+        width: 90%;
     }
 
     .banner .banner-content {
