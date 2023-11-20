@@ -160,7 +160,8 @@
     }
 
     .banner .banner-content {
-        width: 40vw;
+        flex-wrap: nowrap;
+        width: 45vw;
         height: 85vh;
     }
 
@@ -169,7 +170,7 @@
     }
 
     .modules-list, .module {
-        width: 30vw;
+        width: 45vw;
     }
 
     #transform-world p {
@@ -191,7 +192,8 @@
     }
 
     .banner .banner-content {
-        width: 40vw;
+        flex-wrap: nowrap;
+        width: 45vw;
         height: 85vh;
     }
 
@@ -201,7 +203,7 @@
     }
 
     .modules-list, .module {
-        width: 40vw;
+        width: 45vw;
     }
 
     #transform-world p {
@@ -221,9 +223,11 @@
     }
 
     .banner .banner-content {
-        width: 40vw;
+        flex-wrap: nowrap;
+        width: 45vw;
         height: 85vh;
     }
+
 
 
     #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
@@ -231,7 +235,7 @@
     }
 
     .modules-list, .module {
-        width: 40vw;
+        width: 45vw;
     }
 
     #transform-world p {
@@ -251,9 +255,11 @@
     }
 
     .banner .banner-content {
-        width: 40vw;
+        flex-wrap: nowrap;
+        width: 45vw;
         height: 85vh;
     }
+
 
 
     #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
@@ -261,7 +267,7 @@
     }
 
     .modules-list, .module {
-        width: 40vw;
+        width: 45vw;
     }
 
     #transform-world p {
@@ -281,9 +287,11 @@
     }
 
     .banner .banner-content {
-        width: 40vw;
+        flex-wrap: nowrap;
+        width: 45vw;
         height: 85vh;
     }
+
 
 
     #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
@@ -291,7 +299,7 @@
     }
 
     .modules-list, .module {
-        width: 40vw;
+        width: 45vw;
     }
 
     #transform-world p {
@@ -311,9 +319,11 @@
     }
 
     .banner .banner-content {
-        width: 40vw;
+        flex-wrap: nowrap;
+        width: 45vw;
         height: 85vh;
     }
+
 
 
     #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
@@ -321,7 +331,7 @@
     }
 
     .modules-list, .module {
-        width: 40vw;
+        width: 45vw;
     }
 
     #transform-world p {
@@ -346,16 +356,18 @@
     }
 
     .banner .banner-content {
-        width: 40vw;
+        flex-wrap: nowrap;
+        width: 45vw;
         height: 85vh;
     }
+
 
     #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         width: 75vw;
     }
 
     .modules-list, .module {
-        width: 40vw;
+        width: 45vw;
     }
 
     #transform-world p {
@@ -376,16 +388,18 @@
     }
 
     .banner .banner-content {
-        width: 40vw;
+        flex-wrap: nowrap;
+        width: 45vw;
         height: 85vh;
     }
+
 
     #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         width: 75vw;
     }
 
     .modules-list, .module {
-        width: 40vw;
+        width: 45vw;
     }
 
     #transform-world p {
