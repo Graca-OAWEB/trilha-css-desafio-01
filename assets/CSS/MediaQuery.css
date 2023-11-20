@@ -126,9 +126,9 @@
         width: 90%;
     }
 
-    .banner-content .logo {
-        width: 30%;
-        height: 30%;
+    .banner-content .logo img {
+        width: 20vw;
+        height: 20vw;
     }
 
     .banner .banner-content {
