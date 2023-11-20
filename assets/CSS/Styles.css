@@ -11,7 +11,7 @@
 
 *::selection {
     background-color: #33A8DB;
-    color: #020e2e;
+    color: #000;
 }
 
 /*.................................  MOBILE FIRST /STYLE ALL ..............................*/
@@ -19,11 +19,10 @@
 /*==========================================Box=============================================*/
 
 body {
-    width: 100vw;
     background-color: #000;
 }
 
- main, section, header, footer {
+main, section, header, footer {
     width: 100%;
 }
 

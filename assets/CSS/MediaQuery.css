@@ -12,15 +12,17 @@
 /*#PORTRAIT  max-width: 480px*/
 
 @media screen and (max-width: 480px) and (orientation: portrait) {
- 
-    
-    
- main, section, header, footer, #professional-challenges {
-    width: 100vw;
-}
-  .logo{
-    width: 50vw;
-  }
+
+
+
+    main, section, header, footer, #professional-challenges {
+        width: 100vw;
+    }
+
+    .logo {
+        width: 50vw;
+    }
+
     .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         width: 65vw;
     }
@@ -37,25 +39,27 @@
 
 /*#LANDSCAPE max-width: 768px*/
 @media screen and (max-width: 768px) and (orientation: landscape) {
-    
-    
+
+
     main, section, header, footer, #professional-challenges {
         width: 100vw;
     }
-      .logo{
+
+    .logo {
         width: 50vw;
-      }
-        .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
-            width: 65vw;
-        }
-    
-        #transform-world p {
-            width: 40vw;
-            min-height: 100%;
-            display: flex;
-            align-items: center;
-            margin-left: 2em;
-        }
+    }
+
+    .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
+        width: 65vw;
+    }
+
+    #transform-world p {
+        width: 40vw;
+        min-height: 100%;
+        display: flex;
+        align-items: center;
+        margin-left: 2em;
+    }
 }
 
 
@@ -64,13 +68,14 @@
 
 @media screen and (min-width: 834px) and (max-width: 1023px) and (orientation: portrait) {
 
-        
+
     main, section, header, footer, #professional-challenges {
         width: 100vw;
     }
-      .logo{
+
+    .logo {
         width: 50vw;
-      }
+    }
 
     .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         width: 65vw;
@@ -88,13 +93,14 @@
 /*#LANDSCAPE min-width: 1024px and max-width: 1279px*/
 
 @media (min-width: 1024px) and (max-width: 1279px) and (orientation: landscape) {
-    
+
     main, section, header, footer, #professional-challenges {
         width: 100vw;
     }
-      .logo{
+
+    .logo {
         width: 50vw;
-      }
+    }
 
     .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         width: 65vw;
@@ -114,7 +120,7 @@
 /*#SMALL min-width: 1280px and max-width: 1366px*/
 
 @media screen and (min-width: 1280px) and (max-width: 1366px) {
-        
+
     main, section, header, footer, #professional-challenges {
         width: 100vw;
     }
