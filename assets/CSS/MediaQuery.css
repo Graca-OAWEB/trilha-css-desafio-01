@@ -121,9 +121,9 @@
 
 @media screen and (min-width: 1280px) and (max-width: 1366px) {
 
-    main, section, header, footer, #professional-challenges {
+    /* main, section, header, footer, #professional-challenges {
         width: 100vw;
-    }
+    }*/
 
     h2, h1, p {
         width: 90%;
@@ -312,11 +312,16 @@
     }
 }
 
-/*#LANDSCAPE - min-width: 1920px*/
+/*#LANDSCAPE - min-width: 2000px*/
 
-@media screen and (min-width: 2000px) and (orientation: landscape) {
+@media screen and (min-width: 2000px) and (orientation: portrait) {
     h2, h1, p {
         width: 90%;
+    }
+
+    .logo {
+        width: 30%;
+        height: 30%;
     }
 
     .banner .banner-content {
@@ -324,8 +329,6 @@
         width: 45vw;
         height: 85vh;
     }
-
-
 
     #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         width: 75vw;
