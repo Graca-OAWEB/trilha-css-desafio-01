@@ -130,7 +130,8 @@
     }
 
     .banner .banner-content {
-        width: 40vw;
+        flex-wrap: nowrap;
+        width: 45vw;
         height: 85vh;
     }
 
@@ -140,7 +141,7 @@
     }
 
     .modules-list, .module {
-        width: 30vw;
+        width: 45vw;
     }
 
     #transform-world p {
