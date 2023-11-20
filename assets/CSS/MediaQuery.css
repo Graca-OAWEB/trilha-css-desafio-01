@@ -121,17 +121,19 @@
 
 @media screen and (min-width: 1280px) and (max-width: 1366px) {
 
-    /* main, section, header, footer, #professional-challenges {
-        width: 100vw;
-    }*/
 
     h2, h1, p {
         width: 90%;
     }
 
+    .logo {
+        width: 30%;
+        height: 30%;
+    }
+
     .banner .banner-content {
         flex-wrap: nowrap;
-        width: 45vw;
+        width: 40vw;
         height: 85vh;
     }
 
@@ -141,7 +143,7 @@
     }
 
     .modules-list, .module {
-        width: 45vw;
+        width: 40vw;
     }
 
     #transform-world p {
@@ -160,9 +162,14 @@
         width: 90%;
     }
 
+    .logo {
+        width: 30%;
+        height: 30%;
+    }
+
     .banner .banner-content {
         flex-wrap: nowrap;
-        width: 45vw;
+        width: 40vw;
         height: 85vh;
     }
 
@@ -171,7 +178,7 @@
     }
 
     .modules-list, .module {
-        width: 45vw;
+        width: 40vw;
     }
 
     #transform-world p {
@@ -192,19 +199,23 @@
         width: 90%;
     }
 
-    .banner .banner-content {
-        flex-wrap: nowrap;
-        width: 45vw;
-        height: 85vh;
+    .logo {
+        width: 30%;
+        height: 30%;
     }
 
+    .banner .banner-content {
+        flex-wrap: nowrap;
+        width: 40vw;
+        height: 85vh;
+    }
 
     #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         width: 75vw;
     }
 
     .modules-list, .module {
-        width: 45vw;
+        width: 40vw;
     }
 
     #transform-world p {
@@ -223,20 +234,23 @@
         width: 90%;
     }
 
-    .banner .banner-content {
-        flex-wrap: nowrap;
-        width: 45vw;
-        height: 85vh;
+    .logo {
+        width: 30%;
+        height: 30%;
     }
 
-
+    .banner .banner-content {
+        flex-wrap: nowrap;
+        width: 40vw;
+        height: 85vh;
+    }
 
     #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         width: 75vw;
     }
 
     .modules-list, .module {
-        width: 45vw;
+        width: 40vw;
     }
 
     #transform-world p {
@@ -255,20 +269,23 @@
         width: 90%;
     }
 
-    .banner .banner-content {
-        flex-wrap: nowrap;
-        width: 45vw;
-        height: 85vh;
+    .logo {
+        width: 30%;
+        height: 30%;
     }
 
-
+    .banner .banner-content {
+        flex-wrap: nowrap;
+        width: 40vw;
+        height: 85vh;
+    }
 
     #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         width: 75vw;
     }
 
     .modules-list, .module {
-        width: 45vw;
+        width: 40vw;
     }
 
     #transform-world p {
@@ -287,20 +304,23 @@
         width: 90%;
     }
 
-    .banner .banner-content {
-        flex-wrap: nowrap;
-        width: 45vw;
-        height: 85vh;
+    .logo {
+        width: 30%;
+        height: 30%;
     }
 
-
+    .banner .banner-content {
+        flex-wrap: nowrap;
+        width: 40vw;
+        height: 85vh;
+    }
 
     #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         width: 75vw;
     }
 
     .modules-list, .module {
-        width: 45vw;
+        width: 40vw;
     }
 
     #transform-world p {
@@ -326,7 +346,7 @@
 
     .banner .banner-content {
         flex-wrap: nowrap;
-        width: 45vw;
+        width: 40vw;
         height: 85vh;
     }
 
@@ -335,7 +355,7 @@
     }
 
     .modules-list, .module {
-        width: 45vw;
+        width: 40vw;
     }
 
     #transform-world p {
@@ -358,10 +378,15 @@
     h2, h1, p {
         width: 90%;
     }
+    
+    .logo {
+        width: 30%;
+        height: 30%;
+    }
 
     .banner .banner-content {
         flex-wrap: nowrap;
-        width: 45vw;
+        width: 40vw;
         height: 85vh;
     }
 
@@ -371,7 +396,7 @@
     }
 
     .modules-list, .module {
-        width: 45vw;
+        width: 40vw;
     }
 
     #transform-world p {
@@ -391,9 +416,14 @@
         width: 90%;
     }
 
+    .logo {
+        width: 30%;
+        height: 30%;
+    }
+
     .banner .banner-content {
         flex-wrap: nowrap;
-        width: 45vw;
+        width: 40vw;
         height: 85vh;
     }
 
@@ -403,7 +433,7 @@
     }
 
     .modules-list, .module {
-        width: 45vw;
+        width: 40vw;
     }
 
     #transform-world p {
