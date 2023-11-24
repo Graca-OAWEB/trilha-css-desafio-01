@@ -140,12 +140,13 @@ header {
 }
 
 .banner-content {
-    display: inline-flex;
-    min-height: 60vh;
     width: 90vw;
+    display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: center;
-    gap: 1em;
+    flex-wrap: nowrap;
+    min-height: 60vh;
 }
 
 .banner-content h1 {
