@@ -131,6 +131,7 @@
         flex-wrap: nowrap;
         width: 40vw;
         height: 85vh;
+        gap: 1em;
     }
 
     
@@ -144,7 +145,7 @@
         width: 30vw;
     }
 
-    #frame-couse-content,.modules-list,{
+    #frame-couse-content,.modules-list{
         margin-left: 30vw;
         margin-right: 30vw;
     }
@@ -180,6 +181,7 @@
         flex-wrap: nowrap;
         width: 40vw;
         height: 85vh;
+        gap: 1em;
     }
 
     #frame-couse-content, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
@@ -194,7 +196,7 @@
         width: 35vw;
     }
 
-    #frame-couse-content,.modules-list,{
+    #frame-couse-content,.modules-list{
         margin-left: 30vw;
         margin-right: 30vw;
     }
@@ -230,6 +232,7 @@
         flex-wrap: nowrap;
         width: 40vw;
         height: 85vh;
+        gap: 1em;
     }
 
     #frame-couse-content, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
@@ -243,7 +246,7 @@
         width: 35vw;
     }
 
-    #frame-couse-content,.modules-list,{
+    #frame-couse-content,.modules-list{
         margin-left: 30vw;
         margin-right: 30vw;
     }
@@ -277,6 +280,7 @@
         flex-wrap: nowrap;
         width: 40vw;
         height: 85vh;
+        gap: 1em;
     }
 
     #frame-couse-content, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
@@ -323,6 +327,7 @@
         flex-wrap: nowrap;
         width: 40vw;
         height: 85vh;
+        gap: 1em;
     }
 
     #frame-couse-content, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
@@ -336,7 +341,7 @@
         width: 35vw;
     }
 
-    #frame-couse-content,.modules-list,{
+    #frame-couse-content,.modules-list{
         margin-left: 30vw;
         margin-right: 30vw;
     }
@@ -370,6 +375,7 @@
         flex-wrap: nowrap;
         width: 40vw;
         height: 85vh;
+        gap: 1em;
     }
 
     #frame-couse-content, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
@@ -415,6 +421,7 @@
         flex-wrap: nowrap;
         width: 40vw;
         height: 85vh;
+        gap: 1em;
     }
 
     #frame-couse-content, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
@@ -429,7 +436,7 @@
         width: 35vw;
     }
 
-    #frame-couse-content,.modules-list,{
+    #frame-couse-content,.modules-list{
         margin-left: 30vw;
         margin-right: 30vw;
     }
@@ -482,7 +489,7 @@
         width: 35vw;
     }
 
-    #frame-couse-content,.modules-list,{
+    #frame-couse-content,.modules-list{
         margin-left: 30vw;
         margin-right: 30vw;
     }
