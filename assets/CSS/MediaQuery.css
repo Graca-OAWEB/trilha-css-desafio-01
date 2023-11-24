@@ -138,10 +138,13 @@
     }
 
     
-    #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
-        max-width: 55vw;
+    #frame-couse-content, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
+        max-width: 75vw;
     }
 
+    #frame-couse-content p{
+        max-width: 50vw;  
+    }
     .modules-list, .module {
         width: 30vw;
     }
@@ -183,9 +186,13 @@
         height: 85vh;
     }
 
-    #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
+    #frame-couse-content, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         max-width: 75vw;
-        }
+    }
+
+    #frame-couse-content p{
+        max-width: 50vw;  
+    }
     
 
     .modules-list, .module {
@@ -230,10 +237,13 @@
         height: 85vh;
     }
 
-    #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
+    #frame-couse-content, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         max-width: 75vw;
-        }
+    }
 
+    #frame-couse-content p{
+        max-width: 50vw;  
+    }
     .modules-list, .module {
         width: 35vw;
     }
@@ -274,9 +284,13 @@
         height: 85vh;
     }
 
-    #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
+    #frame-couse-content, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         max-width: 75vw;
-        }
+    }
+
+    #frame-couse-content p{
+        max-width: 50vw;  
+    }
 
     .modules-list, .module {
         width: 35vw;
@@ -316,9 +330,13 @@
         height: 85vh;
     }
 
-    #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
+    #frame-couse-content, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         max-width: 75vw;
-        }
+    }
+
+    #frame-couse-content p{
+        max-width: 50vw;  
+    }
 
     .modules-list, .module {
         width: 35vw;
@@ -360,10 +378,13 @@
         height: 85vh;
     }
 
-    #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
+    #frame-couse-content, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         max-width: 75vw;
-        }
-    
+    }
+
+    #frame-couse-content p{
+        max-width: 50vw;  
+    }
 
     .modules-list, .module {
         width: 35vw;
@@ -402,9 +423,13 @@
         height: 85vh;
     }
 
-    #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
+    #frame-couse-content, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         max-width: 75vw;
-        }
+    }
+
+    #frame-couse-content p{
+        max-width: 50vw;  
+    }
 
     .modules-list, .module {
         width: 35vw;
@@ -453,9 +478,13 @@
     }
 
 
-    #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
+    #frame-couse-content, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         max-width: 75vw;
-        }
+    }
+
+    #frame-couse-content p{
+        max-width: 50vw;  
+    }
 
     .modules-list, .module {
         width: 35vw;
@@ -499,8 +528,12 @@
     }
 
 
-    #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
+    #frame-couse-content, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         max-width: 75vw;
+    }
+
+    #frame-couse-content p{
+        max-width: 50vw;  
     }
 
     .modules-list, .module {
