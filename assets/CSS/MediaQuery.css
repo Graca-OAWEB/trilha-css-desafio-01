@@ -16,7 +16,7 @@
 
 
     main, section, header, footer, #professional-challenges {
-        width: 100vw;
+        width: 100%;
     }
 
     .logo {
@@ -42,7 +42,7 @@
 
 
     main, section, header, footer, #professional-challenges {
-        width: 100vw;
+        width: 100%;
     }
 
     .logo {
@@ -70,7 +70,7 @@
 
 
     main, section, header, footer, #professional-challenges {
-        width: 100vw;
+        width: 100%;
     }
 
     .logo {
@@ -95,7 +95,7 @@
 @media (min-width: 1024px) and (max-width: 1279px) and (orientation: landscape) {
 
     main, section, header, footer, #professional-challenges {
-        width: 100vw;
+        width: 100%;
     }
 
     .banner-content .logo {
@@ -137,7 +137,7 @@
         height: 85vh;
     }
 
-
+    
     #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         width: 55vw;
     }
@@ -145,6 +145,12 @@
     .modules-list, .module {
         width: 30vw;
     }
+
+    #frame-couse-content,.modules-list,{
+        margin-left: 30vw;
+        margin-right: 30vw;
+    }
+
 
     #transform-world p {
         width: 15vw;
@@ -181,6 +187,10 @@
         width: 35vw;
     }
 
+    #frame-couse-content,.modules-list,{
+        margin-left: 30vw;
+        margin-right: 30vw;
+    }
     #transform-world p {
         width: 15vw;
         min-height: 100%;
@@ -218,6 +228,11 @@
         width: 35vw;
     }
 
+    #frame-couse-content,.modules-list,{
+        margin-left: 30vw;
+        margin-right: 30vw;
+    }
+
     #transform-world p {
         width: 15vw;
         min-height: 100%;
@@ -252,7 +267,10 @@
     .modules-list, .module {
         width: 35vw;
     }
-
+    #frame-couse-content,.modules-list,{
+        margin-left: 30vw;
+        margin-right: 30vw;
+    }
     #transform-world p {
         width: 15vw;
         min-height: 100%;
@@ -288,6 +306,11 @@
         width: 35vw;
     }
 
+    #frame-couse-content,.modules-list,{
+        margin-left: 30vw;
+        margin-right: 30vw;
+    }
+
     #transform-world p {
         width: 15vw;
         min-height: 100%;
@@ -323,6 +346,11 @@
         width: 35vw;
     }
 
+    #frame-couse-content,.modules-list,{
+        margin-left: 30vw;
+        margin-right: 30vw;
+    }
+
     #transform-world p {
         width: 15vw;
         min-height: 100%;
@@ -356,6 +384,11 @@
 
     .modules-list, .module {
         width: 35vw;
+    }
+
+    #frame-couse-content,.modules-list,{
+        margin-left: 30vw;
+        margin-right: 30vw;
     }
 
     #transform-world p {
@@ -399,6 +432,11 @@
         width: 35vw;
     }
 
+    #frame-couse-content,.modules-list,{
+        margin-left: 30vw;
+        margin-right: 30vw;
+    }
+
     #transform-world p {
         width: 15vw;
         min-height: 100%;
@@ -434,6 +472,11 @@
 
     .modules-list, .module {
         width: 35vw;
+    }
+
+    #frame-couse-content,.modules-list,{
+        margin-left: 30vw;
+        margin-right: 30vw;
     }
 
     #transform-world p {
