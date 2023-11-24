@@ -122,6 +122,10 @@
         width: 90%;
     }
 
+    .banner .logo {
+        width: 12em;
+        height: 12em;
+    }
 
     .banner .banner-content {
         flex-wrap: nowrap;
@@ -164,6 +168,12 @@
 @media screen and (min-width: 1367px) and (max-width: 1919px) {
     h2, h1, p {
         width: 90%;
+    }
+
+
+    .banner .logo {
+        width: 12em;
+        height: 12em;
     }
 
     .banner .banner-content {
@@ -211,6 +221,11 @@
         width: 90%;
     }
 
+    .banner .logo {
+        width: 12em;
+        height: 12em;
+    }
+
     .banner .banner-content {
         flex-wrap: nowrap;
         width: 40vw;
@@ -253,6 +268,10 @@
         width: 90%;
     }
 
+   .banner .logo {
+        width: 12em;
+        height: 12em;
+    }
 
     .banner .banner-content {
         flex-wrap: nowrap;
@@ -295,6 +314,10 @@
         width: 90%;
     }
 
+    .banner .logo {
+        width: 12em;
+        height: 12em;
+    }
 
     .banner .banner-content {
         flex-wrap: nowrap;
@@ -338,6 +361,11 @@
         width: 90%;
     }
 
+    .banner .logo {
+        width: 12em;
+        height: 12em;
+    }
+
     .banner .banner-content {
         flex-wrap: nowrap;
         width: 40vw;
@@ -376,6 +404,11 @@
 @media screen and (min-width: 2000px) and (orientation: portrait) {
     h2, h1, p {
         width: 90%;
+    }
+
+    .banner .logo {
+        width: 12em;
+        height: 12em;
     }
 
     .banner .banner-content {
@@ -426,7 +459,10 @@
         width: 90%;
     }
     
-
+    .banner .logo {
+        width: 12em;
+        height: 12em;
+    }
 
     .banner .banner-content {
         flex-wrap: nowrap;
@@ -472,14 +508,16 @@
         width: 90%;
     }
 
-
+   .banner .logo {
+        width: 12em;
+        height: 12em;
+    }
 
     .banner .banner-content {
         flex-wrap: nowrap;
         width: 40vw;
         height: 85vh;
     }
-
 
     #frame-couse-content, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         max-width: 60vw;
