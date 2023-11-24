@@ -127,8 +127,8 @@
     }
 
     .banner-content .logo {
-        height: 30%;
-        width: 30%;
+        height: 10em;
+        height: 10em;
     }
 
     .banner .banner-content {
@@ -159,6 +159,11 @@
         align-items: center;
         margin-left: 4em;
     }
+
+    #professional-challenges img{
+        width: 40%;
+        height: 40%;
+    }
 }
 
 /*#LARGE  min-width: 1367px and max-width: 1919px*/
@@ -169,8 +174,8 @@
     }
 
     .banner-content .logo {
-        height: 30%;
-        width: 30%;
+        height: 10em;
+        height: 10em;
     }
 
     .banner .banner-content {
@@ -192,12 +197,18 @@
         margin-left: 30vw;
         margin-right: 30vw;
     }
+
     #transform-world p {
         width: 15vw;
         min-height: 100%;
         display: flex;
         align-items: center;
         margin-left: 4em;
+    }
+
+    #professional-challenges img{
+        width: 40%;
+        height: 40%;
     }
 }
 
@@ -211,8 +222,8 @@
     }
 
     .banner-content .logo {
-        height: 30%;
-        width: 30%;
+        height: 10em;
+        height: 10em;
     }
 
     .banner .banner-content {
@@ -240,6 +251,11 @@
         display: flex;
         align-items: center;
         margin-left: 4em;
+    }
+
+    #professional-challenges img{
+        width: 40%;
+        height: 40%;
     }
 }
 
@@ -251,8 +267,8 @@
     }
 
     .banner-content .logo {
-        height: 30%;
-        width: 30%;
+        height: 10em;
+        height: 10em;
     }
 
     .banner .banner-content {
@@ -268,7 +284,8 @@
     .modules-list, .module {
         width: 35vw;
     }
-    #frame-couse-content,.modules-list,{
+
+    #frame-couse-content,.modules-list{
         margin-left: 30vw;
         margin-right: 30vw;
     }
@@ -278,6 +295,11 @@
         display: flex;
         align-items: center;
         margin-left: 4em;
+    }
+
+    #professional-challenges img{
+        width: 40%;
+        height: 40%;
     }
 }
 
@@ -289,8 +311,8 @@
     }
 
     .banner-content .logo {
-        height: 30%;
-        width: 30%;
+        height: 10em;
+        height: 10em;
     }
 
     .banner .banner-content {
@@ -319,6 +341,11 @@
         align-items: center;
         margin-left: 4em;
     }
+
+    #professional-challenges img{
+        width: 40%;
+        height: 40%;
+    }
 }
 
 /*#LANDSCAPE - min-width: 1920px*/
@@ -329,8 +356,8 @@
     }
 
     .banner-content .logo {
-        height: 30%;
-        width: 30%;
+        height: 10em;
+        height: 10em;
     }
 
     .banner .banner-content {
@@ -357,6 +384,11 @@
         align-items: center;
         margin-left: 4em;
     }
+
+    #professional-challenges img{
+        width: 40%;
+        height: 40%;
+    }
 }
 
 /*#LANDSCAPE - min-width: 2000px*/
@@ -367,8 +399,8 @@
     }
 
     .banner-content .logo {
-        height: 30%;
-        width: 30%;
+        height: 10em;
+        height: 10em;
     }
 
     .banner .banner-content {
@@ -396,6 +428,11 @@
         display: flex;
         align-items: center;
         margin-left: 4em;
+    }
+
+    #professional-challenges img{
+        width: 40%;
+        height: 40%;
     }
 
 }
@@ -412,9 +449,10 @@
     }
     
     .banner-content .logo {
-        height: 30%;
-        width: 30%;
+        height: 10em;
+        height: 10em;
     }
+
 
     .banner .banner-content {
         flex-wrap: nowrap;
@@ -443,6 +481,11 @@
         align-items: center;
         margin-left: 4em;
     }
+
+    #professional-challenges img{
+        width: 40%;
+        height: 40%;
+    }
 }
 
 /*#LANDSCAPE - min-width: 1920px*/
@@ -454,8 +497,8 @@
     }
 
     .banner-content .logo {
-        height: 30%;
-        width: 30%;
+        height: 10em;
+        height: 10em;
     }
 
     .banner .banner-content {
@@ -474,13 +517,17 @@
     }
 
   
-
     #transform-world p {
         width: 15vw;
         min-height: 100%;
         display: flex;
         align-items: center;
         margin-left: 4em;
+    }
+
+    #professional-challenges img{
+        width: 40%;
+        height: 40%;
     }
 
 }
