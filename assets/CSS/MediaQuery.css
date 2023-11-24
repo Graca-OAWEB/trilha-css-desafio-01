@@ -141,8 +141,7 @@
     #frame-couse-content, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         max-width: 60vw;
     }
-
-    #frame-couse-content p{
+    #course-content #frame-couse-content p, #professional-challenges p{
         max-width: 50vw;  
     }
     .modules-list, .module {
@@ -190,10 +189,9 @@
         max-width: 60vw;
     }
 
-    #frame-couse-content p{
+    #course-content #frame-couse-content p, #professional-challenges p{
         max-width: 50vw;  
     }
-    
 
     .modules-list, .module {
         width: 35vw;
@@ -241,7 +239,7 @@
         max-width: 60vw;
     }
 
-    #frame-couse-content p{
+    #course-content #frame-couse-content p, #professional-challenges p{
         max-width: 50vw;  
     }
     .modules-list, .module {
@@ -288,7 +286,7 @@
         max-width: 60vw;
     }
 
-    #frame-couse-content p{
+    #course-content #frame-couse-content p, #professional-challenges p{
         max-width: 50vw;  
     }
 
@@ -334,10 +332,9 @@
         max-width: 60vw;
     }
 
-    #frame-couse-content p{
+    #course-content #frame-couse-content p, #professional-challenges p{
         max-width: 50vw;  
     }
-
     .modules-list, .module {
         width: 35vw;
     }
@@ -382,7 +379,7 @@
         max-width: 60vw;
     }
 
-    #frame-couse-content p{
+    #course-content #frame-couse-content p, #professional-challenges p{
         max-width: 50vw;  
     }
 
@@ -427,7 +424,7 @@
         max-width: 60vw;
     }
 
-    #frame-couse-content p{
+    #course-content #frame-couse-content p, #professional-challenges p{
         max-width: 50vw;  
     }
 
@@ -482,10 +479,9 @@
         max-width: 60vw;
     }
 
-    #frame-couse-content p{
+    #course-content #frame-couse-content p, #professional-challenges p{
         max-width: 50vw;  
     }
-
     .modules-list, .module {
         width: 35vw;
     }
@@ -532,7 +528,7 @@
         max-width: 60vw;
     }
 
-    #frame-couse-content p{
+    #course-content #frame-couse-content p, #professional-challenges p{
         max-width: 50vw;  
     }
 
