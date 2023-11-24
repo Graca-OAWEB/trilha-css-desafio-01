@@ -98,10 +98,6 @@
         width: 100%;
     }
 
-    .banner-content .logo {
-        width: 50vw;
-    }
-
     .banner-content, #frame-couse-content, #frame-couse-content p, .modules-list, .module, #professional-challenges h2, #professional-challenges img, #professional-challenges p {
         width: 65vw;
     }
@@ -126,10 +122,6 @@
         width: 90%;
     }
 
-    .banner-content .logo {
-        height: 10em;
-        height: 10em;
-    }
 
     .banner .banner-content {
         flex-wrap: nowrap;
@@ -172,11 +164,6 @@
 @media screen and (min-width: 1367px) and (max-width: 1919px) {
     h2, h1, p {
         width: 90%;
-    }
-
-    .banner-content .logo {
-        height: 10em;
-        height: 10em;
     }
 
     .banner .banner-content {
@@ -224,11 +211,6 @@
         width: 90%;
     }
 
-    .banner-content .logo {
-        height: 10em;
-        height: 10em;
-    }
-
     .banner .banner-content {
         flex-wrap: nowrap;
         width: 40vw;
@@ -271,10 +253,6 @@
         width: 90%;
     }
 
-    .banner-content .logo {
-        height: 10em;
-        height: 10em;
-    }
 
     .banner .banner-content {
         flex-wrap: nowrap;
@@ -317,10 +295,6 @@
         width: 90%;
     }
 
-    .banner-content .logo {
-        height: 10em;
-        height: 10em;
-    }
 
     .banner .banner-content {
         flex-wrap: nowrap;
@@ -364,11 +338,6 @@
         width: 90%;
     }
 
-    .banner-content .logo {
-        height: 10em;
-        height: 10em;
-    }
-
     .banner .banner-content {
         flex-wrap: nowrap;
         width: 40vw;
@@ -407,11 +376,6 @@
 @media screen and (min-width: 2000px) and (orientation: portrait) {
     h2, h1, p {
         width: 90%;
-    }
-
-    .banner-content .logo {
-        height: 10em;
-        height: 10em;
     }
 
     .banner .banner-content {
@@ -462,10 +426,6 @@
         width: 90%;
     }
     
-    .banner-content .logo {
-        height: 10em;
-        height: 10em;
-    }
 
 
     .banner .banner-content {
@@ -512,10 +472,7 @@
         width: 90%;
     }
 
-    .banner-content .logo {
-        height: 10em;
-        height: 10em;
-    }
+
 
     .banner .banner-content {
         flex-wrap: nowrap;
