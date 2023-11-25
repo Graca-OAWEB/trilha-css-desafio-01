@@ -121,6 +121,10 @@ button {
     letter-spacing: 0.21em;
 }
 
+button:hover {
+    mix-blend-mode: ;
+    background-color: #3BA1CD; 
+}
 
 /*..............................  BOX ..............................*/
 
