@@ -67,7 +67,7 @@ h2 {
     font-weight: 700;
     line-height: normal;
     letter-spacing: 6.08px;
-    text-transform: lowercase;
+    text-transform:uppercase;
     margin: 2em 0px 1em 0px;
     text-align: center;
 }
@@ -119,12 +119,9 @@ button {
     font-weight: 900;
     line-height: normal;
     letter-spacing: 0.21em;
+    text-transform: uppercase;
 }
 
-button:hover {
-    mix-blend-mode: ;
-    background-color: #3BA1CD; 
-}
 
 /*..............................  BOX ..............................*/
 
